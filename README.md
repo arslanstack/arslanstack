@@ -11,5 +11,7 @@ Hey,I'm Muhammad Arslan. A PHP & Laravel Web Developer building modern and scala
 ## Examples of Work
 
 [Checkout my portfolio](https://arslanstack.github.io)
-<img src="https://arslanstack.github.io/screenshot.png"> 
+
+
+[<img src="https://arslanstack.github.io/screenshot.png"> ](https://arslanstack.github.io)
 
