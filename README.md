@@ -13,9 +13,9 @@ Hey,I'm Muhammad Arslan. A PHP & Laravel Web Developer building modern and scala
 [Checkout my portfolio](https://arslanstack.github.io)
 
 <p float="left">
-  <<img src="https://i.ibb.co/pxCvT7Y/helix.jpg" width="300" > 
-  <img src="https://i.ibb.co/sK0c6Nv/mockup1.jpg" width="300" >
-  <img src="https://i.ibb.co/2tNPBzC/mockup2.jpg" width="300" >
-  <img src="https://i.ibb.co/wQVzS53/gym.jpg" width="300" >
+  <img src="https://i.ibb.co/pxCvT7Y/helix.jpg" width="250" > 
+  <img src="https://i.ibb.co/sK0c6Nv/mockup1.jpg" width="250" >
+  <img src="https://i.ibb.co/2tNPBzC/mockup2.jpg" width="250" >
+  <img src="https://i.ibb.co/wQVzS53/gym.jpg" width="250" >
 </p>
 
