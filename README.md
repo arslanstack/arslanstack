@@ -46,8 +46,9 @@ I'm <b>Muhammad Arslan</b>, a Backend Web Developer located in Pakistan. I've do
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/officel/48/php-logo.png" alt="php-logo"/>
       </a>
-      <br>Python
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
