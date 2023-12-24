@@ -41,13 +41,7 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
         <img width="48" height="48" src="https://img.icons8.com/nolan/48/laravel.png" alt="laravel"/>
       </a>
       <br>Laravel
-    </td>
-	  <td align="center" width="96">
-      <a href="http://arslanstack.com/">
-        <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings"/>
-      </a>
-      <br>REST API
-    </td>
+    
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
@@ -60,7 +54,13 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
       </a>
       <br>AWS
     </td>
-    
+    </td>
+	  <td align="center" width="96">
+      <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings"/>
+      </a>
+      <br>REST API
+    </td>
      
   </tr>
   
