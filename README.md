@@ -76,9 +76,9 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
-	<img width="48" height="48" src="https://img.icons8.com/papercut/48/google-logo.png" alt="google-logo"/>
+	<img width="48" height="48" src="https://img.icons8.com/plasticine/48/google-maps-new.png" alt="google-maps-new"/>
       </a>
-      <br>Google API
+      <br>Maps
     </td>
      
   </tr>
