@@ -42,6 +42,12 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
       </a>
       <br>Laravel
     </td>
+	  <td align="center" width="96">
+      <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings"/>
+      </a>
+      <br>REST API
+    </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
@@ -50,19 +56,21 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+      </a>
+      <br>AWS
+    </td>
+    
+     
+  </tr>
+  
+  <tr>
+	  <td align="center" width="96">
+      <a href="http://arslanstack.com/">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-     <td align="center" width="96">
-      <a href="http://arslanstack.com/">
-        <img width="48" height="48" src="https://img.icons8.com/arcade/48/api-settings.png" alt="api-settings"/>
-      </a>
-      <br>REST API
-    </td>
-  </tr>
-  
-  <tr>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
