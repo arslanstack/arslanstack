@@ -93,12 +93,6 @@ I'm <b>Muhammad Arslan</b>, a Backend Web Developer located in Pakistan. I've do
       </a>
       <br>Node JS
     </td>
-    <td align="center" width="96">
-      <a href="http://arslanstack.com/">
-        <img src="https://firebase.google.com/images/brand-guidelines/logo-logomark.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
   </tr>
   
   <tr>
