@@ -6,9 +6,9 @@
 <br />
 I'm <b>Muhammad Arslan</b>, a Backend Web Developer located in Pakistan. I've done remote projects for agencies, provided services for startups, and collaborated with talented people to create digital products for both business and consumer use.
 
-<h3>
+<h6>
     I also run a digital agency that empowers solopreneurs and small businesses globally. It functions as only digital hub for research, design, development, and expert consultancy services across diverse spectrum technologies.
-</h3>
+</h6>
 
 - 🌱 Ask me about <b>PHP, REST APIs, Laravel, React, React Native, Next JS and MySQL</b>
 - 👯 I’m looking to collaborate on any Web development projects
