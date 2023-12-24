@@ -66,13 +66,13 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
       <a href="http://arslanstack.com/">
 	<img width="48" height="48" src="https://img.icons8.com/color/48/stripe.png" alt="stripe"/>
       </a>
-      <br>Stripe API
+      <br>Stripe
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
 	<img width="48" height="48" src="https://img.icons8.com/color/48/paypal.png" alt="paypal"/>
       </a>
-      <br>Paypal API
+      <br>Paypal
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
