@@ -44,6 +44,12 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
     </td>
     <td align="center" width="96">
       <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="http://arslanstack.com/">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -84,16 +90,3 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
   </tr>
 </table>
 
-
-
-## Web Performance Stats
-
-<p align="center">
-    <img src="./stat.png" width="800px">
-</p>
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/muqeetmughal/count.svg" />  
-</p>
