@@ -112,7 +112,25 @@ I also run a digital agency that empowers solopreneurs and small businesses glob
       <a href="http://arslanstack.com/">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
-      <br>Material UI
+      <br>MUI
+    </td>
+	  <td align="center" width="96">
+      <a href="http://arslanstack.com/">
+        <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/>
+      </a>
+      <br>Tailwind
+    </td>
+	   <td align="center" width="96">
+      <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo"/>
+      </a>
+      <br>Redux
+    </td>
+	  <td align="center" width="96">
+      <a href="http://arslanstack.com/">
+        <img width="48" height="48" src="https://img.icons8.com/fluency/48/meta.png" alt="meta"/>
+      </a>
+      <br>Meta
     </td>
   </tr>
 </table>
