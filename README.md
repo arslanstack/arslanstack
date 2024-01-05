@@ -2,27 +2,12 @@
 
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-### About Me
-
 I'm **Muhammad Arslan**, a Backend Web Developer based in Pakistan. I've worked on remote projects for agencies, provided services for startups, and collaborated with talented individuals to create digital products for business and consumer use.
 
-I also run a digital agency that empowers solopreneurs and small businesses globally. It serves as a digital hub for research, design, development, and expert consultancy across diverse technology spectrums.
-
 - 🌱 Ask me about **PHP, REST APIs, Laravel, React, React Native, Next JS, and MySQL**
-- 👯 I’m looking to collaborate on any **Web development projects**
 - 📫 Reach me at [hello@arslanstack.com](mailto:hello@arslanstack.com)
 - 🙆‍♂️ Check out my [Portfolio](https://arslanstack.com/)
 - ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://www.buymeacoffee.com/arslanstack)
-
-### How to Reach Me
-
-- Feel free to reach me via email [here!](mailto:hello@arslanstack.com)
-
-### 📕 Blogs and Articles
-
-- Check out my blogs on [Blog](https://blog.arslanstack.com/)
-
----
 
 # :man_technologist: Languages and Tools
 
