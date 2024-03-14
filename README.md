@@ -5,7 +5,7 @@
 I'm **Muhammad Arslan**, a Backend Web Developer based in Pakistan. I've worked on remote projects for agencies, provided services for startups, and collaborated with talented individuals to create digital products for business and consumer use.
 
 - 🌱 Ask me about **PHP, REST APIs, Laravel, React, React Native, Next JS, and MySQL**
-- 📫 Reach me at [me@arslanstack.com](mailto:me@arslanstack.com)
+- 📫 Reach me at [me@arslanstack.com](mailto:arslanstack@gmail.com)
 - 🙆‍♂️ Check out my [Portfolio](https://portfolio.arslanstack.com/)
 - ⚡ Fun fact: My body is surviving on coffee. You can buy me one on [BuyMeACoffee](https://www.buymeacoffee.com/arslanstack)
 
