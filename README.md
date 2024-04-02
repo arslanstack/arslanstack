@@ -107,7 +107,7 @@ I'm **Muhammad Arslan**, a Backend Web Developer based in Pakistan. I've worked 
     </td>
 	   <td align="center" width="96">
       <a href="http://arslanstack.com/">
-        <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo"/>
+        <img width="48" height="48" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"/>
       </a>
       <br>Redux
     </td>
